@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 [Firebase]: https://firebase.google.com/products/realtime-database/
 [Kaggle]:  https://www.kaggle.com/dsouzajr
 
+ <p> 
  ### Let's connect:
  
 [![linkedin](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/9dd3688db8458145cda06d90dd57065d1f7fcdcf/img/linkedin-light.svg)](https://www.linkedin.com/in/donizetti-aparecido-de-souza-b250a7173/)
