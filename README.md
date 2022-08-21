@@ -1,4 +1,13 @@
 
+# Hi There! I’m @souza10v 
+
+- 🍎 Huge Apple fan devices and their systems
+
+- 📲 Currently improving my skills in Swift and the Apple ecosystem
+
+- 🧑‍💻 Looking forward to a work position as an iOS Dev
+
+- 🗺 Fun fact: Learned Spanish living in the US instead of learning in a Hispanic country
 
 
  <!-- **souza10v/souza10v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
