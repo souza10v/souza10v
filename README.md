@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+- 🧮 Some git stats
 
 <div align="center">
   <a href="https://github.com/souza10v">
