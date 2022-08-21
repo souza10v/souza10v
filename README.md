@@ -31,6 +31,12 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souza10v&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+ ### Let's connect:
+ 
+[![linkedin](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/9dd3688db8458145cda06d90dd57065d1f7fcdcf/img/linkedin-light.svg)](https://www.linkedin.com/in/donizetti-aparecido-de-souza-b250a7173/)
+
+[![linkedin](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/9dd3688db8458145cda06d90dd57065d1f7fcdcf/img/linkedin-dark.svg)](https://www.linkedin.com/in/donizetti-aparecido-de-souza-b250a7173/)
+ 
  ### Languages and Tools:
 
 [<img align="left" alt="Swift" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" style="padding-right:10px;" />][Swift]
@@ -61,9 +67,4 @@ Here are some ideas to get you started:
 [Firebase]: https://firebase.google.com/products/realtime-database/
 [Kaggle]:  https://www.kaggle.com/dsouzajr
 
- <p> 
- ### Let's connect:
- 
-[![linkedin](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/9dd3688db8458145cda06d90dd57065d1f7fcdcf/img/linkedin-light.svg)](https://www.linkedin.com/in/donizetti-aparecido-de-souza-b250a7173/)
 
-[![linkedin](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/9dd3688db8458145cda06d90dd57065d1f7fcdcf/img/linkedin-dark.svg)](https://www.linkedin.com/in/donizetti-aparecido-de-souza-b250a7173/)</p>
