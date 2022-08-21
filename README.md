@@ -40,8 +40,7 @@ Here are some ideas to get you started:
  
  
 [![linkedin](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/9dd3688db8458145cda06d90dd57065d1f7fcdcf/img/linkedin-dark.svg)](https://www.linkedin.com/in/donizetti-aparecido-de-souza-b250a7173/)
- 
- https://www.kaggle.com/dsouzajr
+
  
  ### Languages and Tools:
 
@@ -71,3 +70,4 @@ Here are some ideas to get you started:
 [Xcode]: https://www.apple.com/xcode
 [Python]: https://www.python.org
 [Firebase]: https://firebase.google.com/products/realtime-database/
+[Kaggle]:  https://www.kaggle.com/dsouzajr
