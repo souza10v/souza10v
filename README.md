@@ -3,9 +3,9 @@
 
 🍎 I'm a huge fan of Apple devices and their systems.
 
-📲 Currently working on improving my skills in Swift and within the Apple ecosystem.
+💻 Currently working on improving my skills.
 
-🧑‍💻 Looking forward to securing a position as an iOS Developer.
+🧑‍💻 Looking forward to securing a position as a FullStack Developer.
 
 🗺 A fun fact about me is that I learned Spanish while living in the US, rather than in a Hispanic country.
 
