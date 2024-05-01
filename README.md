@@ -1,13 +1,13 @@
 
 # Hi There! I’m @souza10v 
 
-🍎 I'm a huge fan of Apple devices and their systems.
+🍎 I'm an avid enthusiast of Apple devices and their intricate systems.
 
-💻 Currently working on improving my skills.
+💻 Presently dedicated to honing my skills and expanding my expertise.
 
-🧑‍💻 Looking forward to securing a position as a FullStack Developer.
+🧑‍💻 Eagerly aiming to carve out a path as a Developer, merging creativity with technical prowess.
 
-🗺 A fun fact about me is that I learned Spanish while living in the US, rather than in a Hispanic country.
+🗺 An intriguing tidbit about me: I mastered Spanish during my residency in the US, diverging from the conventional route of learning it in a Hispanic nation.
 
 
  <!-- **souza10v/souza10v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-🧮 Some git stats
+🧮 Here are some statistics from my Git repository:
 
 <div align="center">
   <a href="https://github.com/souza10v">
