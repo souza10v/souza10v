@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 [Kaggle]:  https://www.kaggle.com/dsouzajr
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?souza_10v=anselal)](https://github.com/souza10v)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?souza_10v=anselal)](https://github.com/souza10v/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselal)](https://github.com/anuraghazra/github-readme-stats)
 
