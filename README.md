@@ -70,5 +70,4 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?souza10v=anselal)](https://github.com/souza10v/github-readme-stats)
 
