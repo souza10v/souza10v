@@ -69,4 +69,6 @@ Here are some ideas to get you started:
 [Python]: https://www.python.org
 [Firebase]: https://firebase.google.com/products/realtime-database/
 [Kaggle]:  https://www.kaggle.com/dsouzajr
+[React]: https://react.dev/
+[NodeJS]: https://nodejs.org/en
 
