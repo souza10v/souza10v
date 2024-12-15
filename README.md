@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Swift" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" style="padding-right:10px;" />][Swift]
 [<img align="left" alt="CocoaPods" width="26px" src="https://seeklogo.com/images/C/cocoapods-logo-45382D8A59-seeklogo.com.png" style="padding-right:10px;" />][CocoaPods]
-<!-- [<img align="left" alt="Xcode" width="26px" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" style="padding-right:10px;" />][ Xcode]-->
+[<img align="left" alt="Xcode" width="26px" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" style="padding-right:10px;" />][ Xcode]
 [<img align="left" alt="Firebase" height="26px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" style="padding-right:10px;" />][Firebase]
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" style="padding-right:10px;" />][Python]
