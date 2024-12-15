@@ -57,5 +57,16 @@ Here are some ideas to get you started:
 <!--[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][GitHubDarkMode]  -->
 <!--[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][GitHubLightMode] -->
  
-
+[linkedin]: https://www.linkedin.com/in/donizetti-aparecido-de-souza-b250a7173/
+[VsCode]: https://code.visualstudio.com
+[html]: https://www.w3schools.com/html/
+[css]: https://www.w3schools.com/css/
+[JavaScript]: https://www.javascript.com
+[Git]: https://git-scm.com
+[Swift]: https://www.apple.com/swift/
+[CocoaPods]: https://cocoapods.org/
+[Xcode]: https://www.apple.com/xcode
+[Python]: https://www.python.org
+[Firebase]: https://firebase.google.com/products/realtime-database/
+[Kaggle]:  https://www.kaggle.com/dsouzajr
 
