@@ -2,13 +2,21 @@
 
 # Hi There! I’m @souza10v 
 
+🎓 Master's in Computer Modelling.
+
+⚙️ Bachelor's Degree in Engineering.
+
+💻 Tech Stacks: LinkedIn, VSCode, HTML, CSS, JavaScript, Git, Swift, CocoaPods, Xcode, Python, Firebase, Kaggle, React, NodeJS, Angular, Next
+
+🌍 Languages: English (Fluent), Spanish (Fluent), Italian (Intermediate)
+
+🧑‍💻 Presently dedicated to honing my skills and expanding my expertise.
+
 🍎 I'm an avid enthusiast of Apple devices and their intricate systems.
 
-💻 Presently dedicated to honing my skills and expanding my expertise.
-
-🧑‍💻 Eagerly aiming to carve out a path as a Developer, merging creativity with technical prowess.
-
 🗺 An intriguing tidbit about me: I mastered Spanish during my residency in the US, diverging from the conventional route of learning it in a Hispanic nation.
+
+
 
 
  <!-- **souza10v/souza10v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
