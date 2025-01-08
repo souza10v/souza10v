@@ -2,7 +2,7 @@
 
 # Hi There! I’m @souza10v 
 
-🎓 Master's in Computer Modelling.
+🎓 Master's in Computational Modelling.
 
 ⚙️ Bachelor's Degree in Engineering.
 
@@ -16,8 +16,7 @@
 
 🗺 An intriguing tidbit about me: I mastered Spanish during my residency in the US, diverging from the conventional route of learning it in a Hispanic nation.
 
-
-
+<a href="https://portifolioen.vercel.app/" target="_blank" rel="noopener noreferrer">Check my portfolio</a>
 
  <!-- **souza10v/souza10v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
