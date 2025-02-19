@@ -6,7 +6,7 @@
 
 ⚙️ Bachelor's Degree in Engineering.
 
-💻 Tech Stacks: LinkedIn, VSCode, HTML, CSS, JavaScript, Git, Swift, CocoaPods, Xcode, Python, Firebase, Kaggle, React, NodeJS, Angular, Next.
+💻 Tech Stacks: VSCode, HTML, CSS, JavaScript, Git, Swift, CocoaPods, Xcode, Python, Firebase, Kaggle, React, NodeJS, Angular, Next.
 
 🌍 Languages: English (Fluent), Spanish (Fluent), Italian (Intermediate).
 
