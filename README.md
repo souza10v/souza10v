@@ -40,7 +40,8 @@ Here are some ideas to get you started:
    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souza10v&layout=compact&langs_count=7&theme=light"/> -->
 </div>
  
- ### Let's connect:
+ ### Let's connect
+ 
  
  [![linkedin](https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/9dd3688db8458145cda06d90dd57065d1f7fcdcf/img/linkedin-light.svg)](https://www.linkedin.com/in/donizetti-aparecido-de-souza-b250a7173/) 
 
