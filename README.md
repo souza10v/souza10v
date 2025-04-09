@@ -2,7 +2,7 @@
 
 # Hi There! I’m @souza10v 
 
-🎓 Currently pursuing a PhD in Engineering
+🎓 Currently pursuing a PhD in Engineering.
 
 🎓 Master's in Computational Modelling.
 
@@ -10,7 +10,7 @@
 
 💻 Tech Stacks: VSCode, HTML, CSS, JavaScript, Git, Swift, CocoaPods, Xcode, Python, Firebase, Kaggle, React, NodeJS, Angular, Next.
 
-🌍 I speak: Portuguese 🇧🇷 (native), English 🇺🇸 (fluent), Spanish 🇪🇸 (fluent), and a bit of Italian 🇮🇹
+🌍 I speak: Portuguese 🇧🇷 (native), English 🇺🇸 (fluent), Spanish 🇪🇸 (fluent), and a bit of Italian 🇮🇹.
 
 🧑‍💻 Presently dedicated to honing my skills and expanding my expertise.
 
@@ -22,7 +22,7 @@
 
 🗺 An intriguing tidbit about me: I mastered Spanish during my residency in the US, diverging from the conventional route of learning it in a Hispanic nation.
 
-<a href="https://portifolioen.vercel.app/" target="_blank" rel="noopener noreferrer">Check my portfolio</a>
+❗⏩ <a href="https://portifolioen.vercel.app/" target="_blank" rel="noopener noreferrer">Check my portfolio</a> ⏪❗
 
  <!-- **souza10v/souza10v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
