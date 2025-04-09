@@ -12,9 +12,11 @@
 
 🧑‍💻 Presently dedicated to honing my skills and expanding my expertise.
 
-🍎 I'm an enthusiast of Apple devices and their intricate systems.
+<!-- 🍎 I'm an enthusiast of Apple devices and their intricate systems. -->
 
-🏔️ I love mountains and skiing. Colorado is my favorite place to explore, recharge and get inspired by nature and fresh powder
+🏔️ I love mountains and Colorado is my favorite place to explore, recharge and get inspired by nature.
+
+🎿 Skiing is my favorite hobby. Floating on fresh powder and carving turns down is where I feel most alive and inspired.
 
 🗺 An intriguing tidbit about me: I mastered Spanish during my residency in the US, diverging from the conventional route of learning it in a Hispanic nation.
 
