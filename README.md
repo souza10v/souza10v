@@ -14,6 +14,8 @@
 
 🍎 I'm an enthusiast of Apple devices and their intricate systems.
 
+🏔️ I love mountains and skiing. Colorado is my favorite place to explore, recharge and get inspired by nature and fresh powder
+
 🗺 An intriguing tidbit about me: I mastered Spanish during my residency in the US, diverging from the conventional route of learning it in a Hispanic nation.
 
 <a href="https://portifolioen.vercel.app/" target="_blank" rel="noopener noreferrer">Check my portfolio</a>
