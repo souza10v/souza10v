@@ -8,7 +8,7 @@
 
 💻 Tech Stacks: VSCode, HTML, CSS, JavaScript, Git, Swift, CocoaPods, Xcode, Python, Firebase, Kaggle, React, NodeJS, Angular, Next.
 
-🌍 Languages: Portuguese (Mother Tongue), English (Fluent), Spanish (Fluent), Italian (Intermediate).
+🌍 I speak: Portuguese 🇧🇷 (native), English 🇺🇸 (fluent), Spanish 🇪🇸 (fluent), and a bit of Italian 🇮🇹
 
 🧑‍💻 Presently dedicated to honing my skills and expanding my expertise.
 
