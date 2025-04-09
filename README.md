@@ -2,6 +2,8 @@
 
 # Hi There! I’m @souza10v 
 
+🎓 Currently pursuing a PhD in Engineering
+
 🎓 Master's in Computational Modelling.
 
 ⚙️ Bachelor's Degree in Engineering.
