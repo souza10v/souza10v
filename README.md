@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-🧮 Here are some statistics from my Git repository:
+🧮 Here are some statistics from my git repository:
 
 <div align="center">
   <a href="https://github.com/souza10v">
