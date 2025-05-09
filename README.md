@@ -10,17 +10,17 @@
 
 💻 Tech Stacks: VSCode, HTML, CSS, JavaScript, Git, Swift, Xcode, Python, Firebase, Kaggle, React, NodeJS, Angular, Next, Machine Learning and AI.
 
-🌍 I speak: Portuguese 🇧🇷 (native), English 🇺🇸 (fluent), Spanish 🇪🇸 (fluent), and a bit of Italian 🇮🇹.
+🌍 I speak: Portuguese 🇧🇷 (native), English 🇺🇸 (fluent), Spanish 🇪🇸 (fluent) and a bit of Italian 🇮🇹.
 
 🧑‍💻 Presently dedicated to honing my skills and expanding my expertise.
 
 <!-- 🍎 I'm an enthusiast of Apple devices and their intricate systems. -->
 
-🏔️ I love mountains and Colorado is my favorite place to explore, recharge and get inspired by nature.
+🏔️ I love mountains they recharge and get inspired by nature. Love Colorado and Rocky Mountains!
 
-🎿 Skiing is my favorite hobby. Floating on fresh powder and carving turns down is where I feel most alive and inspired.
+🎿 Skiing is my favorite hobby. Floating on fresh powder and carving turns down is where I feel most alive.
 
-🗺 An intriguing tidbit about me: I mastered Spanish during my residency in the US, diverging from the conventional route of learning it in a Hispanic nation.
+🗺 Fun fact: I mastered Spanish during a time in the US, diverging from the conventional route of learning.
 
 ❗⏩ <a href="https://portifolioen.vercel.app/" target="_blank" rel="noopener noreferrer">Check my portfolio</a> ⏪❗
 
