@@ -2,7 +2,7 @@
 
 # Hi There! I’m Donizetti!
 
-🎓 Currently pursuing a PhD in Engineering.
+🎓 Currently pursuing a Ph.D. in Engineering.
 
 🎓 Master's in Computational Modelling.
 
