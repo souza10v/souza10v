@@ -35,15 +35,11 @@ Swift, Machine Learning, Artificial Intelligence, Computational Modeling, Engine
 
 [View my portfolio](https://portifolioen.vercel.app/)
 
-🧮 Here are some statistics from my git repository:
+## GitHub Activity
 
-<div align="center">
-  <a href="https://github.com/souza10v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souza10v&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-   <br>
-   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souza10v&layout=compact&langs_count=7&theme=light"/> -->
-</div>
+My GitHub profile includes projects related to web development, engineering applications, computational modeling, and software architecture.
 
+You can explore my repositories to see practical examples using technologies such as Angular, React, Node.js, Python, TypeScript, and other tools.
 
 ## Contact
 
