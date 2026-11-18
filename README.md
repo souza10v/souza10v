@@ -2,7 +2,7 @@
 
 Ph.D. candidate in Engineering, M.Sc. in Computational Modeling and Software Developer.
 
-I build web applications and engineering software, combining engineering knowledge with modern technologies.
+I build applications and engineering software, combining engineering knowledge with modern technologies.
 
 ## Tech Stack
 
